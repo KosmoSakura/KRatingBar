@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="KRatingBar">
+        <attr name="star_width" format="dimension"/>
+        <attr name="star_height" format="dimension"/>
+        <attr name="starMax" format="integer"/>
+        <attr name="rating" format="integer"/>
+        <attr name="starEmpty" format="reference"/>
+        <attr name="starFill" format="reference"/>
+    </declare-styleable>
+</resources>
